@@ -1,6 +1,12 @@
 __author__ = 'Weiliang Guo'
 
-# Implementing a simple word2vec model
+"""
+Implementing a simple word2vec model
+
+References:
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+https://github.com/golbin/TensorFlow-Tutorials/blob/master/04%20-%20Neural%20Network%20Basic/03%20-%20Word2Vec.py
+"""
 
 import tensorflow as tf
 import numpy as np
