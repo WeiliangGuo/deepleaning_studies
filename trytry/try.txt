@@ -1,0 +1,108 @@
+
+Loaded training data...
+Iter= 1000, Average Loss= 9.523416, Average Accuracy= 2.30%
+['is', 'one', 'of'] - [your] vs [the]
+Iter= 2000, Average Loss= 8.259547, Average Accuracy= 3.50%
+['overseers', 'were', 'only'] - [human] vs [to]
+Iter= 3000, Average Loss= 8.280254, Average Accuracy= 4.20%
+['for', 'a', 'moment'] - [with] vs [and]
+Iter= 4000, Average Loss= 8.176749, Average Accuracy= 4.60%
+['shift', 'with', 'them.'] - [That] vs [to]
+Iter= 5000, Average Loss= 8.190583, Average Accuracy= 5.70%
+['still', 'unmoving', 'Cutie.'] - [“Well,”] vs [the]
+Iter= 6000, Average Loss= 8.202820, Average Accuracy= 4.70%
+['red', 'hair', 'to'] - [hold] vs [the]
+Iter= 7000, Average Loss= 8.306394, Average Accuracy= 3.20%
+['and', 'Dave’s', 'a'] - [major-domo,] vs [the]
+Iter= 8000, Average Loss= 8.277663, Average Accuracy= 3.40%
+['“Say', 'that', 'again!”'] - [“He] vs [you]
+Iter= 9000, Average Loss= 8.156541, Average Accuracy= 4.40%
+['would', 'have', 'found'] - [a] vs [a]
+Iter= 10000, Average Loss= 8.119265, Average Accuracy= 4.60%
+['forearm.', 'Black', 'nodded'] - [at] vs [of]
+Iter= 11000, Average Loss= 8.111723, Average Accuracy= 4.30%
+['to', 'be', 'taken'] - [of] vs [to]
+Iter= 12000, Average Loss= 8.212070, Average Accuracy= 3.40%
+['more,', 'huh?', 'How'] - [come,] vs [of]
+Iter= 13000, Average Loss= 8.220332, Average Accuracy= 3.10%
+['unjarringly', 'as', 'it'] - [had] vs [the]
+Iter= 14000, Average Loss= 8.085148, Average Accuracy= 4.00%
+['of', 'his', 'house.'] - [The] vs [the]
+Iter= 15000, Average Loss= 8.025189, Average Accuracy= 4.60%
+['me', 'to', 'win'] - [the] vs [the]
+Iter= 16000, Average Loss= 7.967173, Average Accuracy= 5.60%
+['a', 'huge', 'one,'] - [sharply] vs [and]
+Iter= 17000, Average Loss= 7.929589, Average Accuracy= 6.30%
+['determine', 'the', 'class'] - [of] vs [of]
+Iter= 18000, Average Loss= 8.118408, Average Accuracy= 5.60%
+['so', 'that', 'she'] - [had] vs [the]
+Iter= 19000, Average Loss= 8.054061, Average Accuracy= 4.50%
+['bent.', '“Maybe,”', 'she'] - [retorted,] vs [she]
+Iter= 20000, Average Loss= 8.121658, Average Accuracy= 3.70%
+['Are', 'you', 'sure?'] - [They] vs [the]
+Iter= 21000, Average Loss= 8.018023, Average Accuracy= 5.60%
+['the', 'white', 'chemical'] - [and] vs [the]
+Iter= 22000, Average Loss= 8.147398, Average Accuracy= 5.40%
+['for', 'the', 'elevator.'] - [It] vs [the]
+Iter= 23000, Average Loss= 8.060744, Average Accuracy= 5.40%
+['duty', 'here,', 'and'] - [his] vs [the]
+Iter= 24000, Average Loss= 8.210268, Average Accuracy= 2.90%
+['shook', 'his', 'head'] - [unhappily,] vs [the]
+Iter= 25000, Average Loss= 8.327496, Average Accuracy= 3.00%
+['line', 'from', 'beginning'] - [to] vs [of]
+Iter= 26000, Average Loss= 8.189119, Average Accuracy= 3.60%
+['the', 'faintest', 'trace'] - [of] vs [and]
+Iter= 27000, Average Loss= 8.129860, Average Accuracy= 4.60%
+['problem', 'of', 'the'] - [Drive.] vs [the]
+Iter= 28000, Average Loss= 8.115548, Average Accuracy= 4.70%
+['masters', 'would', 'be'] - [in] vs [the]
+Iter= 29000, Average Loss= 8.206499, Average Accuracy= 4.10%
+['answer.', 'Something', 'of'] - [the] vs [be]
+Iter= 30000, Average Loss= 8.225387, Average Accuracy= 2.50%
+['cans', 'of', 'a'] - [bewildering] vs [a]
+Iter= 31000, Average Loss= 8.135888, Average Accuracy= 4.70%
+['but', 'I', 'should'] - [think] vs [the]
+Iter= 32000, Average Loss= 8.061890, Average Accuracy= 4.10%
+['And', 'as', 'the'] - [far] vs [the]
+Iter= 33000, Average Loss= 8.006831, Average Accuracy= 4.20%
+['happen', 'to', 'come'] - [to] vs [of]
+Iter= 34000, Average Loss= 7.942119, Average Accuracy= 6.90%
+['spread', 'his', 'hands,'] - [“Labor] vs [the]
+Iter= 35000, Average Loss= 7.821107, Average Accuracy= 6.20%
+['would', 'be', 'harmful'] - [to] vs [the]
+Iter= 36000, Average Loss= 8.017556, Average Accuracy= 5.20%
+['impossibility.', 'Besides', 'I'] - [have] vs [the]
+Iter= 37000, Average Loss= 8.113955, Average Accuracy= 5.30%
+['argumentatively,', '“what', 'the'] - [labor] vs [her]
+Iter= 38000, Average Loss= 8.051985, Average Accuracy= 6.80%
+['anything?”', 'The', 'other'] - [did] vs [the]
+Iter= 39000, Average Loss= 8.254888, Average Accuracy= 5.40%
+['three', 'Laws', 'of'] - [Robotics] vs [the]
+Iter= 40000, Average Loss= 8.234443, Average Accuracy= 4.00%
+['of', 'use.', 'It'] - [also,] vs [of]
+Iter= 41000, Average Loss= 8.355907, Average Accuracy= 3.30%
+['over', 'my', 'desk.'] - [Right] vs [the]
+Iter= 42000, Average Loss= 8.187918, Average Accuracy= 3.80%
+['on', 'the', 'flash.”'] - [Powell] vs [the]
+Iter= 43000, Average Loss= 8.310534, Average Accuracy= 3.00%
+['eye', 'shadow,', 'too.'] - [She’s] vs [and]
+Iter= 44000, Average Loss= 8.286621, Average Accuracy= 3.40%
+['without', 'permission.', 'No'] - [one] vs [the]
+Iter= 45000, Average Loss= 8.372592, Average Accuracy= 3.40%
+['important', 'that', 'what’s'] - [left] vs [to]
+Iter= 46000, Average Loss= 8.278578, Average Accuracy= 4.10%
+['may', 'leave', 'now.'] - [The] vs [that]
+Iter= 47000, Average Loss= 8.363347, Average Accuracy= 3.20%
+['Just', 'the', 'usual'] - [child’s] vs [Brain]
+Iter= 48000, Average Loss= 8.457697, Average Accuracy= 4.40%
+['said,', '“Mike', 'if'] - [it’s] vs [a]
+Iter= 49000, Average Loss= 8.142850, Average Accuracy= 4.30%
+['present', 'case,', 'it'] - [proves] vs [the]
+Iter= 50000, Average Loss= 8.311308, Average Accuracy= 3.70%
+['elected.”', '“Can’t', 'I?”'] - [“Do] vs [a]
+Optimization Finished!
+Elapsed time:  28.612021934986114 min
+Run on command line.
+	tensorboard --logdir=/tmp/tensorflow/rnn_words
+Point your web browser to: http://localhost:6006/
+3 words: 
