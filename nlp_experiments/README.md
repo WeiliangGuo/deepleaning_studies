@@ -7,11 +7,5 @@
 ### Environment setup:
 -  All packages were installed under python virtualenv
 - Python 3.6.3 :: Anaconda, Inc.
-- tensorflow 1.4.1
-- tflearn 0.3.2
-
-Note:
-
-```pip3 install git+https://github.com/tflearn/tflearn.git```
-
-Install tflearn using the above command rather than `pip3 install tflearn`
+- Tensorflow 1.4.1
+- Keras 2.1.2
