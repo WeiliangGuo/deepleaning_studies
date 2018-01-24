@@ -81,6 +81,8 @@ class CnnLstmTextClassifier:
 
         # ==== hyper-parameters for training LSTM model ==== #
         self.loss = loss
+        # There are many available optimization techniques such as SGD, Adam or RMSProp,
+        # we choose Adam because it usually achieves better performance than other ones.
         self.optimizer = optimizer
         self.metrics = [metrics]
         self.epochs = epochs
@@ -129,7 +131,7 @@ class CnnLstmTextClassifier:
     def train_lstm_model(self):
         model = self.create_lstm_model()
         # Compiling the model to be used by the backend  TensorFlow, CNTK, or Theano
-        model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+        model.compile(loss=self.loss, optimizer=self.optimizer, metrics=self.metrics)
         print(model.summary())
         model.fit(self.X_train, self.y_train, validation_data=(self.X_test, self.y_test), epochs=self.epochs, batch_size=self.batch_size)
         return model
