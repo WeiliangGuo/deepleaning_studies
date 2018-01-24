@@ -2,7 +2,7 @@ __author__ = 'Weiliang Guo'
 """
 References:
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
+https://machinelearningmastery.com/sequence-classification-text_classifier-recurrent-neural-networks-python-keras/
 """
 
 import numpy
