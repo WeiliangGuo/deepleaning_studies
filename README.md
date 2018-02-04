@@ -4,5 +4,7 @@
 
 ### [Course 2: Improving Deep Neural Networks](https://github.com/WeiliangGuo/deepleaning_studies/wiki/Course2)
 
+### [Course 5: Sequence Models](https://github.com/WeiliangGuo/deepleaning_studies/wiki/Course5)
+
 * This project was migrated from [my gitlab project: dl_study_notes
 ](https://gitlab.com/WeiliangGuo/dl_study_notes)
